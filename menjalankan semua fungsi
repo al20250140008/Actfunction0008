@@ -1,0 +1,8 @@
+
+int main()
+{
+    input();
+    output();
+    cout << "Kelilingnya : " << kelilingpersegi
+    (panjang, lebar);
+}
