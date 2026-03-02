@@ -1,0 +1,9 @@
+int luasPersegi()
+{
+    return panjang * lebar;
+}
+
+void input()
+{
+cout << "Hasilnya : " << luasPersegi();
+}
